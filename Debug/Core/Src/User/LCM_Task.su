@@ -1,0 +1,5 @@
+LCM_Task.c:13:6:LCM_Init	8	static
+LCM_Task.c:49:6:LCM_Cmd_Out	16	static,ignoring_inline_asm
+LCM_Task.c:74:6:LCM_Data_Out	16	static,ignoring_inline_asm
+LCM_Task.c:99:6:LCM_Task	16	static
+LCM_Task.c:173:6:LCM_I2C_Update	8	static
